@@ -39,7 +39,8 @@ fun Greeting(
             "Jacob Davis - Golf God",
             "Sarah Parr - THE Silly Goose.",
             "Ian Henninger - Wasit Here",
-            "Raymond Vargas Perez - LeStudent"
+            "Raymond Vargas Perez - LeStudent",
+            "Aidan Donohoe - Silly Nick name too"
         )
 
     var selectedUser by remember {
