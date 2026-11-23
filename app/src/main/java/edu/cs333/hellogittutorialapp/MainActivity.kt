@@ -36,7 +36,8 @@ fun Greeting(
             "Doctor Gupta",
             "Professor Shimkanon",
             "Professor Ruggles",
-            "Jacob Davis - Golf God"
+            "Jacob Davis - Golf God",
+            "Sarah Parr - THE Silly Goose."
         )
 
     var selectedUser by remember {
