@@ -39,9 +39,10 @@ fun Greeting(
             "Jacob Davis - Golf God",
             "Sarah Parr - THE Silly Goose.",
             "Ian Henninger - Wasit Here",
-            "Raymond Vargas Perez - LeStudent",
+            "Raymond Vargas Perezzz - LeStudent",
             "Aidan Donohoe - Silly Nick name too",
-            "Brody Frable - Magnolia"
+            "Brody Frable - Magnolia",
+            "Joy Janney - CS Club Presidente!"
         )
 
     var selectedUser by remember {
