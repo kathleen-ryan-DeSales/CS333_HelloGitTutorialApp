@@ -31,12 +31,12 @@ fun Greeting(
     modifier: Modifier = Modifier
 ) {
 
-    val users = listOf(
-        "Dr. Ryan",
-        "Dr. Gupta",
-        "Pf. Shimkanon",
-        "Pf. Ruggles"
-    )
+        val users = listOf(
+            "Dr. Ryan",
+            "Dr. Gupta",
+            "Pf. Shimkanon",
+            "Pf. Ruggles!!"
+        )
 
     var selectedUser by remember {
         mutableStateOf(users[0])
