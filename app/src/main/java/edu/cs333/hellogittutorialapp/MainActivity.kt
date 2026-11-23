@@ -32,10 +32,10 @@ fun Greeting(
 ) {
 
         val users = listOf(
-            "Dr. Ryan",
-            "Dr. Gupta",
-            "Pf. Shimkanon",
-            "Pf. Ruggles!!"
+            "Doctor Ryan",
+            "Doctor Gupta",
+            "Professor Shimkanon",
+            "Professor Ruggles"
         )
 
     var selectedUser by remember {
