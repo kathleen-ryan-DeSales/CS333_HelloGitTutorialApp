@@ -40,7 +40,8 @@ fun Greeting(
             "Sarah Parr - THE Silly Goose.",
             "Ian Henninger - Wasit Here",
             "Raymond Vargas Perez - LeStudent",
-            "Aidan Donohoe - Silly Nick name too"
+            "Aidan Donohoe - Silly Nick name too",
+            "Brody Frable - Magnolia"
         )
 
     var selectedUser by remember {
